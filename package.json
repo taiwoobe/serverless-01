@@ -18,5 +18,8 @@
   "homepage": "https://github.com/taiwoobe/serverless-01#readme",
   "dependencies": {
     "netlify-cli": "^4.4.2"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
